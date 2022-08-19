@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Culled</folder>
+	<filename>Why-we-should-love-slugs_623-a9d94cf.jpg</filename>
+	<path>C:\Users\bensn\Desktop\Slug detection\Data\Culled\Why-we-should-love-slugs_623-a9d94cf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>623</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>11</ymin>
+			<xmax>414</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

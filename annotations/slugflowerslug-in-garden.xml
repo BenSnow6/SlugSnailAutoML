@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Culled</folder>
+	<filename>slugflowerslug-in-garden.jpg</filename>
+	<path>C:\Users\bensn\Desktop\Slug detection\Data\Culled\slugflowerslug-in-garden.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>559</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>207</ymin>
+			<xmax>426</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

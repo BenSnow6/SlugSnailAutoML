@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Culled</folder>
+	<filename>d7-snail-versus-slug-v1.jpg</filename>
+	<path>C:\Users\bensn\Desktop\Slug detection\Data\Culled\d7-snail-versus-slug-v1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>316</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>30</ymin>
+			<xmax>296</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>106</ymin>
+			<xmax>691</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

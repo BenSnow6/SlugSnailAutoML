@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Culled</folder>
+	<filename>slugflowerThe-Best-Natural-Methods-to-Protect-Your-Garden-from-Slugs-and-Snails.jpg</filename>
+	<path>C:\Users\bensn\Desktop\Slug detection\Data\Culled\slugflowerThe-Best-Natural-Methods-to-Protect-Your-Garden-from-Slugs-and-Snails.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>65</ymin>
+			<xmax>1198</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>262</ymin>
+			<xmax>845</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

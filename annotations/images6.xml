@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Culled</folder>
+	<filename>images6.jpg</filename>
+	<path>C:\Users\bensn\Desktop\Slug detection\Data\Culled\images6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>70</ymin>
+			<xmax>216</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

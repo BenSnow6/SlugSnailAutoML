@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Culled</folder>
+	<filename>controlling_snails_1280.jpg</filename>
+	<path>C:\Users\bensn\Desktop\Slug detection\Data\Culled\controlling_snails_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>111</ymin>
+			<xmax>1131</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+</annotation>
