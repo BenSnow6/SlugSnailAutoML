@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>slugflowerimages162.jpg</filename>
+	<path>../images/slugflowerimages162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>10</ymin>
+			<xmax>79</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

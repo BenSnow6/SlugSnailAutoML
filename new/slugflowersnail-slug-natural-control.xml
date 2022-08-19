@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>slugflowersnail-slug-natural-control.jpg</filename>
+	<path>../images/slugflowersnail-slug-natural-control.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>166</ymin>
+			<xmax>865</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+</annotation>

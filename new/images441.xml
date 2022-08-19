@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images441.jpg</filename>
+	<path>../images/images441.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>7</ymin>
+			<xmax>248</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

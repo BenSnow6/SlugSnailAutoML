@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images200.jpg</filename>
+	<path>../images/images200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>292</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>3</ymin>
+			<xmax>240</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>
